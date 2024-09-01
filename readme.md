@@ -6,12 +6,6 @@
     <img src="docs/artifacts/chess_logo.png" alt="Project Image" style="float: right; margin: 0 0 1em 1em; width: 200px; padding-right: 200px;">
     <p>This project is designed to extract data from the Chess.com API, transform it, and load it into a PostgreSQL database. This project is called "EtLT" because we used some in-memory transformations (before the load to db) and transformations within the PostgreSQL to precalculate some analysis.</p>
     <p>The goal of this project was to enable efficient data analysis and discover valuable insights, trends, and statistical information pertaining to chess.com games archive. This is achieved by implementing a modern and robust pipeline that aligns with the principles of data engineering, allowing for the application and enhancement of our acquired skills.</p>
-    <p>Code owners of this repository (project) are:</p>
-    <ul>
-    <li><a href="https://github.com/danihello">Daniel Premisler</a></li>
-    <li><a href="https://github.com/yagvendrajoshi">Yagvendra Joshi</a></li>
-    <li><a href="https://github.com/NikiforSokolov">Nikifor Sokolov</a></li>
-    </ul>
 </div>
 
 ## Data sources
